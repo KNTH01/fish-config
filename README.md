@@ -5,4 +5,4 @@ path to config `/home/$USER/.config/fish`
 
 ### Set `fish` as default shell
 
-execute this : `chsh -s `which fish`
+execute this : chsh -s `which fish`
